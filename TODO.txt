@@ -1,0 +1,3 @@
+-nevet kitalalni (nekem mindegy mi, minnel autistabb annal jobb)
+-fooldal strukturajat elkesziteni, hogy legyen mihez igazodni a kesobbiekben
+-fooldal css stilusait elkesziteni, eszben tartva a kotelezo dolgokat (kijelolo cuccokat is kell hasznalni)
