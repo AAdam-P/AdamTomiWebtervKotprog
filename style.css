@@ -71,6 +71,7 @@ ul.mainmenu li a{
     margin: auto;
     text-decoration: none;
     text-align: center;
+    transition: 0.5s background-color ease;
 }
 ul.mainmenu li a:hover{
     background-color: saddlebrown;
